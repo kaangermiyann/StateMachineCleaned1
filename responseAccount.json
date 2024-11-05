@@ -1,0 +1,405 @@
+{
+  "id": 21454,
+  "assetDefinitionCode": "Account",
+  "assetName": null,
+  "authorityGroup": "string",
+  "assets": null,
+  "attributes": [
+    {
+      "id": 13105,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ExpiryDate"
+      },
+      "value": 20241001000000,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13560,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "EnforcementExemption"
+      },
+      "value": false,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 11904,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "BusinessPartnerId"
+      },
+      "value": 19553,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "2000000333",
+      "values": null
+    },
+    {
+      "id": 24212,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AssetDefinitionId"
+      },
+      "value": "1013",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13558,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "VATExemption"
+      },
+      "value": false,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13106,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "CreateDate"
+      },
+      "value": 20241015122105,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13561,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ETVExemption"
+      },
+      "value": false,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13107,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "UpdateDate"
+      },
+      "value": 20241016135633,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28314,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AutomaticPayment"
+      },
+      "value": "AutomaticPaymentYes",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Var",
+      "values": null
+    },
+    {
+      "id": 28312,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "Currency"
+      },
+      "value": "TRY",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "TRY",
+      "values": null
+    },
+    {
+      "id": 13656,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AccountSubscriberGroup"
+      },
+      "value": "LicancedProducerSubscriberGroup",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Lisanslı Üretici",
+      "values": null
+    },
+    {
+      "id": 13559,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "STExemption"
+      },
+      "value": false,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 24215,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AssetIdentifier"
+      },
+      "value": "1000020601",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 12604,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "SupplierEtsoKod"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13563,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "IsDeleted"
+      },
+      "value": false,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 12605,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "SupplierShortCode"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 19503,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "FormerSystemAccount"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 24209,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "IBAN"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28317,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "WarningProcedure"
+      },
+      "value": "ProducerWarning",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Üretici İhtar Prosedürü",
+      "values": null
+    },
+    {
+      "id": 24211,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "CreateUser"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28310,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "TaxClass"
+      },
+      "value": "LicancedProducerSubscriberGroup_1",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Lisanslı Üretici (KDV %20)",
+      "values": null
+    },
+    {
+      "id": 11905,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ContractId"
+      },
+      "value": 21408,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "10000446",
+      "values": null
+    },
+    {
+      "id": 28311,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AccountGLCode"
+      },
+      "value": "1200000001",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Lisanslı Üretici Ana Hesabı",
+      "values": null
+    },
+    {
+      "id": 13655,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AccountType"
+      },
+      "value": "ProducerAccountType",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Üretici Cari Hesabı",
+      "values": null
+    },
+    {
+      "id": 24213,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AccessLevel"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 16103,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AccountNumber"
+      },
+      "value": 1000020601,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28313,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "InterestType"
+      },
+      "value": "Amme",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Amme Gecikme Tipi",
+      "values": null
+    },
+    {
+      "id": 13657,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AccountClassCode"
+      },
+      "value": "LicancedProducerCodeClass",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Lisanslı Üretici",
+      "values": null
+    },
+    {
+      "id": 13562,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "PartialPayment"
+      },
+      "value": false,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28315,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "DueDateType"
+      },
+      "value": "DT015",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "15 Gün Vade",
+      "values": null
+    },
+    {
+      "id": 24214,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "UpdateUser"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 24210,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AssetId"
+      },
+      "value": "21454",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28316,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "InterestInvoiceType"
+      },
+      "value": "Now",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Hemen Faturala",
+      "values": null
+    }
+  ]
+}

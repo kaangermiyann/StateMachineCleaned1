@@ -1,0 +1,655 @@
+{
+  "id": 21407,
+  "assetDefinitionCode": "LicensedProducerServicePoint",
+  "assetName": null,
+  "authorityGroup": "string",
+  "assets": null,
+  "attributes": [
+    {
+      "id": 2653,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "DistributionConnectionFee"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13510,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ServicePointControlStatus"
+      },
+      "value": false,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "DemandPower"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 6708,
+          "attribute": null,
+          "value": 60,
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": null,
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 28289,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ServicePointStatus"
+      },
+      "value": "Active",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Aktif",
+      "values": null
+    },
+    {
+      "id": 13065,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ServicePointBeginDate"
+      },
+      "value": 20241001000000,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "PhaseCount"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 28284,
+          "attribute": null,
+          "value": "1",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "1",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 24191,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AssetDefinitionId"
+      },
+      "value": "1013",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "InstalledPower"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 6707,
+          "attribute": null,
+          "value": 100,
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": null,
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 24187,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "DbaApplicationNumber"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13067,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "CreateDate"
+      },
+      "value": 20241015122012,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13066,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "DbaEndDate"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13619,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "EnergyStatus"
+      },
+      "value": "Off",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Kesik",
+      "values": null
+    },
+    {
+      "id": 6711,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "OperatingHours"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13068,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "UpdateDate"
+      },
+      "value": 20241015122301,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28280,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ProductionType"
+      },
+      "value": "Sun",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Güneş",
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "TariffType"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 13618,
+          "attribute": null,
+          "value": "URT",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Üretici",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "VoltageType"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 13617,
+          "attribute": null,
+          "value": "OG",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Orta Gerilim",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "PlannedReadingZone"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 13616,
+          "attribute": null,
+          "value": "1000",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "1000",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 24186,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "PreviousServicePointNumber"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28279,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ServiceType"
+      },
+      "value": "Electricity",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": "Elektrik",
+      "values": null
+    },
+    {
+      "id": 11862,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "PremiseId"
+      },
+      "value": 21406,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28287,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "EpiasReadingType"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 24194,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AssetIdentifier"
+      },
+      "value": "300000614",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13511,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "IsDeleted"
+      },
+      "value": false,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ProducerDemandPower"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 6710,
+          "attribute": null,
+          "value": 60,
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": null,
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "VoltageLevel"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 28283,
+          "attribute": null,
+          "value": "33",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "33",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 24190,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "CreateUser"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 24188,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "MunicipalityName"
+      },
+      "value": "DİYARBAKIR - Normal Belediye",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ServicePointType"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 13614,
+          "attribute": null,
+          "value": "LicencedProducers",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Lisanslı Üreticiler",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 11863,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "DbaContractAccountNumberId"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "DeviceLocationType"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 28281,
+          "attribute": null,
+          "value": "ApartmentEntrance",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Bina Girişi",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 24192,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AccessLevel"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 28285,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ServicePointRole"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 16056,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ServicePointNumber"
+      },
+      "value": 300000614,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 11864,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "MainServicePointId"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "PrimarySecondaryInfo"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 13615,
+          "attribute": null,
+          "value": "Primary",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Primer",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 28288,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "MunicipalityCurrentAccountNumberId"
+      },
+      "value": "3028",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 13509,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "DbbCollectionStatus"
+      },
+      "value": false,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": 24193,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "UpdateUser"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "ProducerInstalledPower"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 6709,
+          "attribute": null,
+          "value": 100,
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": null,
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 28286,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "OsosInfo"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    },
+    {
+      "id": null,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "OnsiteInvoiceCreation"
+      },
+      "value": null,
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": [
+        {
+          "id": 28282,
+          "attribute": null,
+          "value": "OnsideInvoice",
+          "startDate": 20241001000000,
+          "endDate": 99991231235959,
+          "valueDesc": "Yerinde Okunacak",
+          "values": null
+        }
+      ]
+    },
+    {
+      "id": 24189,
+      "attribute": {
+        "alias": null,
+        "attributeCode": "AssetId"
+      },
+      "value": "21407",
+      "startDate": null,
+      "endDate": null,
+      "valueDesc": null,
+      "values": null
+    }
+  ]
+}
